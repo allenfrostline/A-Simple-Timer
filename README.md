@@ -20,5 +20,4 @@ python timer.py
 
 3. You can now (re)start the timer, which will set off a system alarm when time's up.
 
-<img src="screenshot.png" style="width: 20%;"/>
-<img src="screenshot2.png" style="width: 20%;"/>
+<img src="screenshot.png" width="40%"/><img src="screenshot2.png" width="40%"/>
