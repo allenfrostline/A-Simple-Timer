@@ -4,9 +4,7 @@ A very simple countdown timer for video essay practices in Grad school applicati
 
 ## Dependencies
 
-System: `macOS`.
-Python version: `3.x`.
-Packages: `tkinter`.
+System: `macOS`. Python version: `3.x`. Packages: `tkinter`.
 
 ## Usage
 
